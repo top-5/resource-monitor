@@ -1,6 +1,6 @@
 #include "monitor.h"
 #pragma once
-#define MAX_CPUS 32
+#define MAX_CPUS 65
 
 class cpu : public monitor
 {
